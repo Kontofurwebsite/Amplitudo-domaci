@@ -1,0 +1,30 @@
+table{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+img {
+    width: 190px;
+    height: 100px;
+}
+
+#naslov{
+    text-align: center;
+    color: gray;
+    font-size: 28px;
+}
+
+#tabela tr:nth-child(2n+1){
+    background-color: #e9ecef;
+}
+
+.naslovni {
+    background-color: none;
+}
+
+th {
+    background-color: white;
+    border:solid 2px;
+}
